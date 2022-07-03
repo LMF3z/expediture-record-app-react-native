@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expenditure-record-app",
+    "slug": "expenditure-record-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
